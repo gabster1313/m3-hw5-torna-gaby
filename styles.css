@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #accbac;
+    background-color: #D1E0D1;
     padding: 40px;
     border-bottom: solid 5px #db8c37;
     margin-bottom: 20px;
@@ -20,7 +20,7 @@ h1{
     display: inline-block;
     width: 38%;
     font-family: "bely";
-    color: white;
+    color: #506543;
     font-size: 45px;
     height: 38%;
 }
@@ -32,15 +32,14 @@ nav {
 }
 
 nav a {
-    background-color: #db8c37;
-    color: white;
+    background-color: #596E49;
+    color: #EFE6EF;
     text-decoration: none;
-    padding: 10px 15px;
-    border-radius: 20px;
-    font-weight: 300;
-    font-size: normal;
+    padding: 15px;
+    border-radius: 40px;
     text-transform: uppercase;
     font-family: "Ohno";
+    margin: 25px 25px 25px;
 }
 
 .container {
@@ -52,7 +51,7 @@ nav a {
 main {
     display: inline-block;
     width: 63%;
-    background-color: white;
+    background-color:ghostwhite;
     padding: 25px;
 }
 
@@ -72,8 +71,8 @@ p{
 .subheading {
     font-size: 40px;
     font-family: "Ohno";
-    color: #db8c37;
-    border-bottom: solid 5px #db8c37;
+    color: #A6641C;
+    border-bottom: solid 5px #A6641C;
     margin-bottom: 20px;
 }
 
