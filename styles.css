@@ -21,7 +21,7 @@ h1{
     width: 38%;
     font-family: "bely";
     color: white;
-    font-size: 35px;
+    font-size: 45px;
     height: 38%;
 }
 
@@ -59,6 +59,7 @@ main {
 .headshot {
     float: left;
     margin-right: 20px;
+    filter: drop-shadow(10px 10px 10px grey);
 }
 
 p{
@@ -89,7 +90,7 @@ h3 {
     margin-top: 10px;
     margin-bottom: 15px;
     border-bottom: solid 5px #db8c37;
-    font-size: 20px;
+    font-size: 15px;
     font-family:  Arial, Helvetica, sans-serif;
 }
 
